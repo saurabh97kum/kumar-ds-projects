@@ -1,16 +1,17 @@
-# Titanic Survival Prediction
+# Titanic - Classification Project
 
-This project uses the Titanic dataset to build a machine learning model that predicts whether a passenger survived or not.
+A beginner-level classification project predicting passenger survival on the Titanic.
+
+## Features
+- Data cleaning
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Model training with scikit-learn (Logistic Regression, Decision Trees)
+- Evaluation with accuracy score and confusion matrix
 
 ## Dataset
-[Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic)
+- [Kaggle Titanic competition data](https://www.kaggle.com/c/titanic/data)
 
-## Objectives
-- Perform EDA
-- Clean and preprocess data
-- Apply ML models (Logistic Regression, RandomForest)
-- Evaluate performance
-
-## Tools
-Python, Pandas, scikit-learn, Seaborn, Matplotlib
-
+## How to Run
+- Jupyter notebook: `titanic.ipynb`
+- Data in `data/` folder
