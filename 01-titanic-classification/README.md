@@ -13,5 +13,4 @@ A beginner-level classification project predicting passenger survival on the Tit
 - [Kaggle Titanic competition data](https://www.kaggle.com/c/titanic/data)
 
 ## How to Run
-- Jupyter notebook: `titanic.ipynb`
-- Data in `data/` folder
+
